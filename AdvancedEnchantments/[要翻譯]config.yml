@@ -539,7 +539,7 @@ enchanter:
         enchant-group: SIMPLE
         price: exp:400
         sound: ANVIL_LAND
-        name: '&f&lSimple Enchantment &7(Right Click)'
+        name: '&f&l普通附魔 &7(左鍵)'
         lore:
           - '&7Examine to recieve a random'
           - '&fsimple &7enchantment book.'
