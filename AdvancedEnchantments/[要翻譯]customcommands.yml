@@ -12,7 +12,7 @@ enchantment-info:
   # Set to [] to disable
   # Use %list-of-items% for applyable materials in lore and %list-of-items-msg% for message.
   message:
-  - "&7Information about &e%enchant% &7enchantment."
+  - "&7相關信息 &e%enchant% &7enchantment."
   inventory:
     # If not enabled, only message will be shown.
     # You can use all variables that are used for items in the message,
